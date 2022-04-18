@@ -12,7 +12,7 @@ download node.js: https://nodejs.org/en/
 git clone https://github.com/Live2D/CubismWebSamples.git
 ```  
 ```
-cd .\CubismSdkForWeb-4-r.4\Samples\TypeScript\Demo\
+cd .\CubismWebSamples\Samples\TypeScript\Demo\
 ```  
 ```
 npm install
