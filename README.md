@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 ### Running Screen
-![image](https://user-images.githubusercontent.com/66452317/163739065-14923fe6-a46e-4215-be30-8e6d20871f3c.png)\
+![image](https://user-images.githubusercontent.com/66452317/163739065-14923fe6-a46e-4215-be30-8e6d20871f3c.png)
 
 ### Web Url
 http://localhost:5000/Samples/TypeScript/Demo/   
