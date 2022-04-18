@@ -8,9 +8,9 @@ download node.js: https://nodejs.org/en/
 
 
 ### How to Use
-```
-git clone https://github.com/Live2D/CubismWebSamples.git
-```  
+doenload web sdk from   
+https://www.live2d.com/zh-CHS/download/cubism-sdk/download-web/?fbclid=IwAR1oySn2FP-uB9V6IgRGdN1K8z84yVhU_hx4BrDLSpG426QB_jMNNDdp7sE
+ 
 ```
 cd .\CubismWebSamples\Samples\TypeScript\Demo\
 ```  
